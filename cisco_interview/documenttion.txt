@@ -1,0 +1,25 @@
+updated_script.py  months and years averages,,,
+
+you want user friendly go to Script.py file
+
+
+
+
+citrix_interview_find_average    Documentaion
+
+
+Heart of task =script.py file ....you want see the Results of average ..please Run the script.py file
+
+>> script.py file in object ===>   citrix_interview_find_average
+>> citrix_interview_find_average object input(CSV file) comes from "get_input.py" file......
+   if you want take script file also ,,,,
+>> if you will run citrix_interview_find_average this object
+   please give input   'MONTH OR YEAR'
+               Month input Format =>  example:01,1,janauary  (small Char)
+               Year input Format  =>  example:2014
+
+   if your given worng input are input format they will show which Format Required
+
+
+>>in this Script i am not raised any execptions i done only info(becuase of there is no if you give wrong input program excution going
+,,,,if required expetions i will doit
