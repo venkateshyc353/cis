@@ -96,3 +96,4 @@ class  citrix_interview_find_average:
 
 average_object=citrix_interview_find_average()
 
+copy_rights @ y c venkateswarlu
